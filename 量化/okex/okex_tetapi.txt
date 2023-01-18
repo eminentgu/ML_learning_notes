@@ -1,0 +1,31 @@
+f07bd2f1-7876-4737-8434-f20fd2e3afe3
+
+用途
+
+API 交易
+
+备注名
+
+test
+
+绑定 IP 地址 (可选)
+
+权限
+
+读取交易
+
+密钥
+
+2B28083E8355FCA9359057166A5DB721
+
+apikey = "f07bd2f1-7876-4737-8434-f20fd2e3afe3"
+secretkey = "2B28083E8355FCA9359057166A5DB721"
+IP = ""
+备注名 = "test"
+权限 = "读取/交易"
+
+
+vultr
+root
+
+[Am8yo-w*rczC,.H

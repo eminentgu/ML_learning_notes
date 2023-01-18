@@ -1,0 +1,2 @@
+Network,Column count,Density,Link count,Row count,Characteristic path length,Betweenness centralization,Closeness centralization,Clustering coefficient,Reciprocity,Krackhardt connectedness,Krackhardt efficiency,Eigenvector centralization,Network fragmentation,Krackhardt hierarchy,Isolate count,Network levels (diameter),Degree centralization,Krackhardt upperboundedness,Component count,
+resource x resource,1490.0000,0.0086,19025.0000,1490.0000,3.3902,0.0980,0.0008,0.1460,0.1380,0.6725,0.9792,0.2130,0.3275,0.5293,266.0000,9.0000,0.1484,0.9252,268.0000,
